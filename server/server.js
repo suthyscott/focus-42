@@ -2,7 +2,7 @@ const express = require('express')
 const cors = require('cors')
 const db = require('./database')
 const seed = require('./seed')
-const {addTask, getTasks, deleteTask}  =require('./controllers/tasks')
+const {addTask, getTasks, deleteTask} = require('./controllers/tasks')
 
 const app = express()
 app.use(express.json())
