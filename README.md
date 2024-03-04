@@ -1,3 +1,8 @@
+# Planning
+
+Walk through MVP and planning documents
+
+# Setup
 Set up the folders for `public` and `server` with appropriate files
 
 Build out html files so they can see the logic that we're trying to add.
